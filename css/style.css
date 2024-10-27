@@ -1,0 +1,13 @@
+.warning{
+    color: rgb(186, 0, 0);
+}
+.type{
+    color: rgb(236, 158, 0);
+}
+.border{
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+    border: 3px dashed rgba(146, 57, 15, 0.301);
+}
